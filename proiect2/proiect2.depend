@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650367241 source:d:\facultate\poo\proiect2\main.cpp
+	<iostream>
+	<typeinfo>
+	<vector>
+	<bits/stdc++.h>
+
